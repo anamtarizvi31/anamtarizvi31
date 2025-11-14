@@ -5,10 +5,6 @@
 
 <br>
 
-**🐾 I love cats** &nbsp;&nbsp;![](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)&nbsp;&nbsp;  
-
-<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" align="right" width="100">
-
 ---
 
 
@@ -17,15 +13,9 @@
 ---
 
 ### 💌 About Me
-💖 Dreamer • Developer • Designer  
-🧁 Obsessed with cute aesthetics, cozy playlists & chai ☕  
+💖 Coder • Developer • Designer  
+🧁 Obsessed with cute aesthetics & new designs
 💫 Trying to make the digital world a little softer 🌈  
-
----
-
-<div align="center">
-	<img src="https://cdn.cosmos.so/0444e652-3e00-47c4-9a0b-07815ea8bb91?format=jpeg" width="45%" style="border-radius:10px; margin:5px;">
-</div>
 
 ---
 
@@ -33,8 +23,8 @@
 ![](https://media.giphy.com/media/3oriOiizS4Pmofj46A/giphy.gif)
 
 💌 Designing soft UI themes  
-🐾 Learning React & frontend magic  
-🌷 Adding pastel sparkles to everything ✨  
+🐾 Learning React & frontend  
+🌷 Adding sparkles to everything ✨  
 
 ---
 
