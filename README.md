@@ -19,8 +19,7 @@
 
 ---
 
-### 🐻 Currently Loving
-![](https://media.giphy.com/media/3oriOiizS4Pmofj46A/giphy.gif)
+### 🐻 Currently Learning
 
 💌 Designing soft UI themes  
 🐾 Learning React & frontend  
